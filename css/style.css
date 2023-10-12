@@ -1,4 +1,6 @@
-
+html {
+    background-color: #d7d2cb;
+}
 
 ul {
     text-align: center;
@@ -8,6 +10,9 @@ ul {
 li {
     display: inline;
     margin-right: 20px;
+    background-color: #fafaf0;
+    padding: 4px;
+
 }
 
 
