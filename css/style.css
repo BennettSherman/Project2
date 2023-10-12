@@ -13,11 +13,12 @@ li {
     background-color: #fafaf0;
     padding: 4px;
     text-align: center;
-    text-decoration: none;
     color: #aaaaaa;
     border: 2px;
-    border-color: #aaaaaa;
-     
 }
 
+a {
+    border-color: #aaaaaa;
+    text-decoration: none;
+}
 
