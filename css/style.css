@@ -1,25 +1,21 @@
 html {
-    background-color: #d7d2cb;
+    background-color: #36486b;
+    font-family: Georgia, Times, serif;
 }
 
-ul {
-    text-align: center;
-    list-style-type: none;
-}
-
-li {
-    display: inline;
-    margin-right: 20px;
-    background-color: #fafaf0;
-    padding: 4px;
-    text-align: center;
-    color: #aaaaaa;
-    border: 2px;
+#navbar {
+    background-color:#fefbd8;
+    margin: 8px 30px;
+    color: #618685;
 }
 
 a {
-    border: 5px;
-    border-color: #aaaaaa;
     text-decoration: none;
+    padding: 20px;
 }
+
+section {
+    background-color: #618685;
+}
+
 
