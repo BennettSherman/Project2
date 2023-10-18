@@ -18,6 +18,7 @@ li {
 }
 
 a {
+    border: 5px;
     border-color: #aaaaaa;
     text-decoration: none;
 }
