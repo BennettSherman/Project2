@@ -25,9 +25,8 @@ section {
     padding: 15px
 }
 
-#bird h1 {
+.center h1 {
     text-align: center;
-    
 }
 
 img {
