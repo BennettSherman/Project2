@@ -25,5 +25,13 @@ section {
     padding: 15px
 }
 
+.bird h1 h2 h4 {
+    text-align: center;
+}
+
+img {
+    max-width: 90%;
+    max-height: 90%;
+}
 
 
