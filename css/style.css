@@ -34,8 +34,9 @@ img {
 }
 
 #potatohead {
-  font-size: 70px;
+  font-size: 120px;
   font-weight: 460;
+  font-family: Arial, Helvetica, sans-serif;
   background-image: url("frybackground.jpeg");
   background-size: 250px;
   background-repeat: repeat;
