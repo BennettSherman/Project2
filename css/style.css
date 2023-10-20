@@ -44,6 +44,7 @@ img {
   -webkit-background-clip: text;
   background-clip: text;
   padding: 60px;
+  line-height: .8;
 }
 
 .center {
