@@ -43,7 +43,7 @@ img {
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
-  padding: 60px;
+  padding: 0px;
   line-height: .8;
 }
 
