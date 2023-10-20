@@ -30,8 +30,16 @@ img {
     height: 420px;
     margin: auto;
     display: block;
-    border: 30px;
-    border-color: #36486b;
+    border: 30px solid #36486b;
+}
+
+#potatohead {
+  font-size: 70px;
+  font-weight: 460;
+  background-image: url();
+  background-size: 250px;
+  background-repeat: repeat;
+  color: transparent;
 }
 
 .center {
