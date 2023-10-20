@@ -40,6 +40,8 @@ img {
   background-size: 250px;
   background-repeat: repeat;
   color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
 }
 
 .center {
