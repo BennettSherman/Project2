@@ -15,6 +15,10 @@ body {
     margin: 10%;
 }
 
+#customheading {
+  font-family: 'chunkfiveregular' Arial, sans-serif;
+}
+
 a {
   text-decoration: none;
   padding: 10px 20px;
