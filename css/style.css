@@ -17,7 +17,7 @@ body {
 
 @font-face {
   font-family: "chunkfive-regular-webfont";
-  src: url(css/fonts/mondayfeelings.ttf) format(truetype);
+  src: url(css/fonts/chunkfive-regular-webfont.woff) format('woff');
 }
 
 #customheading {
